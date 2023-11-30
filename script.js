@@ -1,5 +1,5 @@
 function searchNews() {
-    const apiKey = '52d685f8f19d450384bbb613c17c34e6';
+    const apiKey = 'fb8eb1f9464a4b23b593b9c4f698df46';
     const searchInput = document.querySelector('#search-input').value;
     const selectedDate = document.querySelector('#date-picker').value;
     const bottomDiv = document.querySelector('.bottom-div');
